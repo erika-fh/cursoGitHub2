@@ -1,2 +1,2 @@
 # cursoGitHub2
- pruebas
+ pruebas curso GitHub sesión 1
